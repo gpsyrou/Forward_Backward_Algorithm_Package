@@ -12,6 +12,10 @@ This R package contains two main algorithms for generic Continuous-time Markov C
 
  Function that implements a Viterbi algorithm, given likelihood of observed data,timestamp of each observation and a parameter theta.
 
+
+You can download the package in your computer or just import it directly into your R environment by writing the following command:
+devtools::install_github("gpsyrou/GSpyrou_package")
+
 **References**
 
 https://en.wikipedia.org/wiki/Viterbi_algorithm
