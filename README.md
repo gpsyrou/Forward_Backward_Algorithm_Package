@@ -1,8 +1,8 @@
 # GSpyrou_package
 
-**Viterbi and ForwardBackward algorithms for Symmetric Continuous-time Markov-Chain HMM**
+## **Viterbi and ForwardBackward algorithms for Symmetric Continuous-time Markov-Chain HMM**
 
-The package contains two main algorithms for generic Continuous-time Markov Chain hidden Markov Models
+This R package contains two main algorithms for generic Continuous-time Markov Chain hidden Markov Models and its written in C++
 
 1) Implementation of ForwardBackward Algorithm on a Symmetric Continuous-time Markov Chain HMM:
 
