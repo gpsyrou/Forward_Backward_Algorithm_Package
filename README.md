@@ -6,9 +6,10 @@ The package contains two main algorithms for generic Continuous-time Markov Chai
 
 1) Implementation of ForwardBackward Algorithm on a Symmetric Continuous-time Markov Chain HMM:
 
-Implementing the ForwardBackward algorithm,given likelihood of observed data,timestamp of each observation and a parameter theta.
+ Function that performs the ForwardBackward algorithm,given likelihood of observed data,timestamp of each observation and a parameter  theta.
 
 2) Implementation of Viterbi Algorithm on a Symmetric Continuous-time Markov Chain HMM using Rcpp:
+
  Function that implements a Viterbi algorithm, given likelihood of observed data,timestamp of each observation and a parameter theta.
 
 **References**
