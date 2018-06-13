@@ -1,0 +1,15 @@
+Package: gspyrouHW4
+Type: Package
+Title: Viterbi and ForwardBackward algorithms for Symmetric
+        Continuous-time Markov-Chain HMM.
+Version: 1.0
+Date: 2017-11-19
+Author: Georgios Spyrou(gspyrou)
+Maintainer: Georgios Spyrou(gspyrou) <gspyrou@umich.edu>
+Description: The package contains two main algorithms for generic Continuous-time Markov Chain hidden Markov Models.
+License: GPL (>= 3)
+Imports: Rcpp (>= 0.12.12)
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
+NeedsCompilation: yes
+Packaged: 2017-11-20 02:26:37 UTC; george

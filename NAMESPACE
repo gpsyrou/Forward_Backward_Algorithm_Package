@@ -1,0 +1,3 @@
+useDynLib(gspyrouHW4, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
