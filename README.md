@@ -1,4 +1,4 @@
-# GSpyrou_package
+# This package contains the implementation of two algorithms (Viterbi, Forward-Backward).
 
 ## **Viterbi and ForwardBackward algorithms for Symmetric Continuous-time Markov-Chain HMM**
 
